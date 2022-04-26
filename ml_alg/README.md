@@ -14,7 +14,7 @@ MelonLoader mod for VRChat that brings limbs manipulation of local player by rem
 ## Settings
 Available mod's settings through UIExpansionKit:
 * **Maximal distance to limbs:** maximal distance to limbs for successful grab, 0.25 by default, scaled by avatar height.
-* **Allow friends to manipulate you:** allow manipulation for friends in room (includes new joiners and option toggle), enabled by default.
+* **Allow friends to manipulate you:** allow manipulation for everyone in room (includes new joiners and option toggle), disabled by default. Disabled means only friends can manipulate you.
 * **Allow pull:** allow player pulling, enabled by default.
 * **Allow head pull:** allow head pulling, enabled by default.
 * **Allow hands pull:** allow hands pulling, enabled by default.
